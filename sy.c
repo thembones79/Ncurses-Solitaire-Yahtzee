@@ -20,7 +20,7 @@ int sixes = 0;
 
 // The Scorecard
 // -1 value indicates that the box is empty
-// 0 value indicates that the dice held do not meet the criteria fpr the box
+// 0 value indicates that the dice held do not meet the criteria for the box
 int scoreOnes = -1;//total of all ones
 int scoreTwos = -1;//total of all twos
 int scoreThrees = -1;//total of all threes
